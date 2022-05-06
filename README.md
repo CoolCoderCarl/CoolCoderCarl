@@ -36,7 +36,7 @@
 ![Elastic Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Stack&color=005571&logo=Elastic+Stack&logoColor=FFFFFF&label=)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolCoderCarl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolCoderCarl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
