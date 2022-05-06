@@ -36,10 +36,12 @@
 ![Elastic Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Stack&color=005571&logo=Elastic+Stack&logoColor=FFFFFF&label=)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolCoderCarl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![CoolCoderCArl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![CoolCoderCarl Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoderCarl&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
