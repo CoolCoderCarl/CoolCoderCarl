@@ -9,7 +9,7 @@
 ## Technology stack
 
 **Operations System**
-(https://img.shields.io/badge/RHEL-OS-red)
+![RHEL](https://img.shields.io/badge/RHEL-OS-red)
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
