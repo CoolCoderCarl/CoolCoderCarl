@@ -8,8 +8,9 @@
 
 ## Technology stack
 
-**Operations System**
+**Operations System**  
 ![RHEL](https://img.shields.io/badge/RHEL-OS-red)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-OS-orange)
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
