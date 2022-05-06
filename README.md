@@ -9,8 +9,20 @@
 ## Technology stack
 
 **Operations System**  
+
 ![RHEL](https://img.shields.io/badge/RHEL-OS-red)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-OS-orange)
+
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+
+
+**Container**
+
+![Docker]
+![Podman]
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
