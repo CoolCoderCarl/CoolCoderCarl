@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 
-**Container**
+**Containers**
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
@@ -35,6 +35,8 @@
 
 ![Elastic Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Stack&color=005571&logo=Elastic+Stack&logoColor=FFFFFF&label=)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
