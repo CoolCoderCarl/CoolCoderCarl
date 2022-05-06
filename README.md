@@ -8,6 +8,8 @@
 
 ## Technology stack
 
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
 **Operations System**  
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
@@ -34,9 +36,6 @@
 **Logging**
 
 ![Elastic Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Stack&color=005571&logo=Elastic+Stack&logoColor=FFFFFF&label=)
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolCoderCarl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
