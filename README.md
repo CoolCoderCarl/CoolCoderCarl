@@ -52,6 +52,8 @@
 ![SEGA](https://camo.githubusercontent.com/0398dcb22a721d8849d138c01368a5f9974f4e3dbe62ce04526b437050c0743c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365676126636f6c6f723d303038394346266c6f676f3d53656761266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 
+## Statistics
+
 ![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![CoolCoderCarl Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoderCarl&layout=compact&count_private=true&theme=gruvbox)
