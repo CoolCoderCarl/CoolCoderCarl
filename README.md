@@ -1,4 +1,4 @@
-### Hi there 👋 I am an Engineer
+### Hi there 👋 I am The Engineer
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ernest-umerov-7bb49a1b0/">
