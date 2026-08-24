@@ -82,6 +82,7 @@
 ![GlusterFS](https://img.shields.io/badge/GlusterFS-240D3B?style=for-the-badge&logo=gluster&logoColor=white)
 ![NFS](https://img.shields.io/badge/NFS-333333?style=for-the-badge)
 ![LVM](https://img.shields.io/badge/LVM-5277C3?style=for-the-badge)
+![Samba](https://img.shields.io/badge/Samba-4EAA25?style=for-the-badge&logo=samba&logoColor=white)
 
 ### 🌐 Web Servers & Proxies
 
