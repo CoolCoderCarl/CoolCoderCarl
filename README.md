@@ -2,7 +2,7 @@
 ### Hola 👋 Yo soy El Ingeniero
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ernest-umerov-7bb49a1b0/">
+  <a href="[https://www.linkedin.com/in/ernest-umerov-7bb49a1b0/](https://www.linkedin.com/in/ernest-u-7bb49a1b0/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
