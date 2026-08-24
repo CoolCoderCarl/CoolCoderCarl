@@ -1,6 +1,18 @@
 ### Hello 👋 I am Engineer
 <!--### Hola 👋 Yo soy Ingeniero-->
 
+## 👨‍💻 About Me
+
+- 🔧 DevOps Engineer focused on automation and infrastructure
+- ☁️ Working with AWS and cloud-native technologies
+- ☸️ Kubernetes & container orchestration
+- 🏗️ Infrastructure as Code with Terraform & Ansible
+- 🔄 CI/CD automation
+- 🐍 Python development and scripting
+- 🤖 AI & Machine Learning technologies
+- 📚 Always learning something new
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/ernest-u-7bb49a1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📦 Containers & Orchestration
 
@@ -47,10 +60,12 @@
 ### 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### 📨 Message Brokers
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D03832?style=for-the-badge&logo=apache&logoColor=white)
 
 ### ☁️ Cloud
 
@@ -61,7 +76,14 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
+### 💾 Storage
 
+![GlusterFS](https://img.shields.io/badge/GlusterFS-240D3B?style=for-the-badge&logo=gluster&logoColor=white)
+
+### 🌐 Web Servers & Proxies
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-1D5E9E?style=for-the-badge&logo=haproxy&logoColor=white)
 
 ### 🔧 Hardware & Electronics
 
