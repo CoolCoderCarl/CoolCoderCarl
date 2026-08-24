@@ -69,7 +69,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![SEGA](https://img.shields.io/badge/SEGA-0089CF?style=for-the-badge&logo=sega&logoColor=white)
 
-## Statistics
+<!--## Statistics
 
 
 ## 💻 Most Used Languages
@@ -81,10 +81,8 @@
   />
 </p>
 
-
-
-
 ![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+-->
 
 
 
