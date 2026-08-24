@@ -1,5 +1,5 @@
-### Hello 👋 I am The Engineer
-### Hola 👋 Yo soy El Ingeniero
+### Hello 👋 I am Engineer
+### Hola 👋 Yo soy Ingeniero
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ernest-u-7bb49a1b0/">
