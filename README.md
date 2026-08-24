@@ -63,7 +63,7 @@
 
 
 
-**Hardware**
+### 🔧 Hardware & Electronics
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
@@ -71,9 +71,22 @@
 
 ## Statistics
 
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Most Used Languages"
+  />
+</p>
+
+
+
+
 ![CoolCoderCarl github stats](https://github-readme-stats.vercel.app/api?username=CoolCoderCarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![CoolCoderCarl Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoderCarl&layout=compact&count_private=true&theme=gruvbox)
+
 
 <!--
 **CoolCoderCarl/CoolCoderCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
