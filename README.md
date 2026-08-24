@@ -1,5 +1,5 @@
 ### Hello 👋 I am Engineer
-### Hola 👋 Yo soy Ingeniero
+<!--### Hola 👋 Yo soy Ingeniero-->
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ernest-u-7bb49a1b0/">
@@ -48,6 +48,10 @@
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
+### 📨 Message Brokers
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 ### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -58,12 +62,12 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 
+
 **Hardware**
 
-![Raspberry PI](https://camo.githubusercontent.com/097afcefbc7a46d3febbc6cc4929c108a51416b8231302620f3b87f5c6ceb8db/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5261737062657272792b506926636f6c6f723d413232383436266c6f676f3d5261737062657272792b5069266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Arduino](https://camo.githubusercontent.com/7442ca49b3c70dc74aa6a0f027f995bfcf5a9c42d2d19f0938b24eb1c21338bc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41726475696e6f26636f6c6f723d303038373846266c6f676f3d41726475696e6f266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![SEGA](https://camo.githubusercontent.com/d2f09803513da80a4971b63e1f2557b3254abbc435fb5298e35138d1813e0079/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365676126636f6c6f723d303038394346266c6f676f3d53656761266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![SEGA](https://img.shields.io/badge/SEGA-0089CF?style=for-the-badge&logo=sega&logoColor=white)
 
 ## Statistics
 
