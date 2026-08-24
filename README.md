@@ -76,7 +76,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoderCarl&layout=donut&theme=tokyonight&hide_border=true&langs_count=10"
     alt="Most Used Languages"
   />
 </p>
